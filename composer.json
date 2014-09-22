@@ -1,0 +1,7 @@
+{
+    "name": "bitcont/cexchange",
+    "require": {
+      "kdyby/curl": "~2.2",
+      "kdyby/curl-ca-bundle": "~1.0"
+    }
+}
