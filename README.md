@@ -1,4 +1,4 @@
-cexchange
+Cexchange
 =========
 
 PHP library for trading on crypto-currency exchanges.
